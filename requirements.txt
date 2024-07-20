@@ -1,4 +1,1 @@
 influxdb_client==1.17.0
-numpy==1.19.2
-pandas==1.1.5
-
